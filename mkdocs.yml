@@ -5,3 +5,5 @@ extra_javascript:
 
 markdown_extensions:
     - mdx_math
+
+theme: readthedocs
