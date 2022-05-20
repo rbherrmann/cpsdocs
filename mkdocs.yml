@@ -1,7 +1,16 @@
 site_name: CPS Documentation
 
 nav:
-    - Tutorials: tutorials.md
+    - Home: 'index.md'
+    - Tutorials:
+        - Basic Seismology:
+            - Particle Motion: 'tutorials/particle_motion.md'
+        - Synthetic Seismograms: 'tutorials/synthetics.md'
+        - Surface Waves: 'tutorials/surface_waves.md'
+        - Receiver Functions: 'tutorials/receiver_functions.md'
+        - Earth Structure: 'tutorials/earth_structure.md'
+        - Seismic Sources: 'tutorials/sources.md'
+        - Data and Instrumentation: 'tutorials/instrumentation.md'
 
 extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
