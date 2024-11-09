@@ -16,9 +16,7 @@ extra_javascript:
     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 markdown_extensions:
+    - mdx_math
     - attr_list
 
 theme: readthedocs
-
-site_url: ""
-use_directory_urls: False

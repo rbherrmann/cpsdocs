@@ -2,6 +2,9 @@
 
 For full documentation visit the CPS [home page](https://www.eas.slu.edu/eqc/eqccps.html).
 
+Also visit [new page](https://www.slu.edu/)
+
+Also visit [OCEAN1tut](file:///OCEAN1tut/index.html)
 ## Citation
 
 The reference to this set of codes is as follows:
