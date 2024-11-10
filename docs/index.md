@@ -5,6 +5,8 @@ For full documentation visit the CPS [home page](https://www.eas.slu.edu/eqc/eqc
 Also visit [new page](https://www.slu.edu/)
 
 Also visit [OCEAN1tut](file:///OCEAN1tut/index.html)
+
+Also visit [OCEAN1tut](https://github.com/rbherrmann/cpsdocs/blob/main/docs/OCEAN1tut/index.html)
 ## Citation
 
 And then there is more
